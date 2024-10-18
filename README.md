@@ -9,9 +9,9 @@ Maybe sometime i will use it for my own GDPS.
 
 ## TODO
 ----
-- [x] Put routes in different files
-- [x] Add more routes
-- [x] Uh... i forgor..
+- [ ] Put routes in different files
+- [ ] Add more routes
+- [ ] Uh... i forgor..
 
 ## Thanks to
 ----
