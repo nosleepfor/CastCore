@@ -18,3 +18,7 @@ Maybe sometime i will use it for my own GDPS.
 - [Geometry Dash Docs](https://github.com/gd-programming/gd.docs)
 - [Cvolton GDPS Core](https://github.com/Cvolton/GMDprivateServer)
 - [Kafif](https://yt3.googleusercontent.com/bM9n0lwAz6249n_JIkVJYSSqyd3XBvtPZr1nKnWKV362hrTnQvxWhtAMxcJ5Rczkk6NjjVZ8Cw=s900-c-k-c0x00ffffff-no-rj)
+
+## TODO
+----
+- [x] Remove adding rows to likes
