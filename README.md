@@ -9,7 +9,7 @@ Maybe sometime i will use it for my own GDPS.
 
 ## TODO
 ----
-- [ ] Put routes in different files
+- [x] Put routes in different files
 - [ ] Add more routes
 - [ ] Uh... i forgor..
 
@@ -21,4 +21,4 @@ Maybe sometime i will use it for my own GDPS.
 
 ## TODO
 ----
-- [x] Remove adding rows to likes
+- [ ] Remove adding rows to likes
