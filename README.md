@@ -12,6 +12,8 @@ Maybe sometime i will use it for my own GDPS.
 - [x] Put routes in different files
 - [ ] Add more routes
 - [ ] Uh... i forgor..
+- [ ] Add antispam
+- [ ] Add linit checking
 
 ## Thanks to
 ----
