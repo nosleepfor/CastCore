@@ -19,6 +19,7 @@ db = mysql.connector.connect(
 )
 
 cursor = db.cursor()
+dict_cursor = db.cursor(dictionary=True)
 
 def add_user(username, password, email):
     gjp = gen_gjp2(password, bcrypt=True)
@@ -33,6 +34,14 @@ def user_name_exists(username):
     cursor.execute("SELECT * FROM users WHERE username = %s", (username,))
     return cursor.fetchone() is not None
 
+def user_id_exists(id):
+    cursor.execute("SELECT * FROM users WHERE id = %s", (id,))
+    return cursor.fetchone() is not None
+
 def get_account(username):
     cursor.execute("SELECT * FROM users WHERE username = %s", (username,))
+    return cursor.fetchone()
+
+def get_account_by_id(id):
+    cursor.execute("SELECT * FROM users WHERE id = %s", (id,))
     return cursor.fetchone()
