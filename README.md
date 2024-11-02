@@ -7,6 +7,8 @@ Its kinda badly written, all routes in one file, shit code e.t.c, blah blah blah
 Maybe if i'll not be lazy dumbass i'll rewrite it in the future.
 Maybe sometime i will use it for my own GDPS.
 
+# my laptop is dead and so repository:(
+
 ## TODO
 ----
 - [x] Put routes in different files
